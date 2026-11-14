@@ -1,0 +1,8 @@
+{
+  "name": "mini-agente",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": { "start": "node agent.js" },
+  "dependencies": { "@anthropic-ai/sdk": "latest" }
+}
